@@ -1,0 +1,11 @@
+integer downPayment
+integer paymentPerMonth
+integer numMonths
+integer totalCosts
+
+downPayment= Get next input
+paymentPerMonth= Get next input
+numMonths= Get next input
+totalCosts= downPayment+(paymentPerMonth*numMonths)
+Put " Total costs: " to output
+Put totalCosts to output

@@ -1,0 +1,9 @@
+integer milesTraveled
+integer hoursToDrive
+
+milesTraveled= Get next input
+
+//Car drives 60 MPH
+hoursToDrive= milesTraveled/ 60.0
+
+Put hoursToDrive to output with 1 decimal places
